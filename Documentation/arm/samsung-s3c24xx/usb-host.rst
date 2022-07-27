@@ -7,7 +7,7 @@ S3C24XX USB Host support
 Introduction
 ------------
 
-  This document details the S3C2410/S3C2440 in-built OHCI USB host support.
+  This document details the S3C2410/S3C2440 built-in OHCI USB host support.
 
 Configuration
 -------------
